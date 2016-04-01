@@ -1,0 +1,12 @@
+{
+  "name": "banzfamily.com",
+  "version": "1.0.0",
+  "description": "A website for our family to share photos and news",
+  "main": "family.js",
+  "author": "Matt Banz",
+  "dependencies": {
+    "express": "^4.13.3",
+    "glob": "^6.0.4",
+    "normalize.css": "^3.0.3"
+  }
+}
